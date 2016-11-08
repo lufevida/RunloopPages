@@ -1,0 +1,22 @@
+{
+	"templateNameArray": [
+		"Phantom",
+		"Solid State",
+		"Stellar",
+		"Forty"
+	],
+	"templateDescriptionArray": [
+		"A Jekyll version of the Phantom theme.",
+		"A Jekyll version of the Solid State theme.",
+		"A Jekyll version of the Stellar theme.",
+		"A Jekyll version of the Forty theme."
+	],
+	"templatePreviewArray": [
+		"https://lufevida.github.io/html5up-phantom/",
+		"https://lufevida.github.io/html5up-solid-state/",
+		"https://lufevida.github.io/html5up-stellar/",
+		"https://lufevida.github.io/html5up-forty/"
+	],
+	"templateImageArray": [
+	]
+}
